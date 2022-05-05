@@ -52,4 +52,4 @@ O jogo deve ter 2 jogadores.
 
 A jogabilidade do game é pelo terminal, usando uma letra e um número conforme a posição da peça(mesma lógica de batalha naval).
 
-O jogo deve rodar na pasta bin, pelo Git Bash, ele é um terminal que permite cores, assim não comprometendo a visualização do game, e evitando erros.
+O jogo deve rodar na pasta bin, pelo Git Bash, é um terminal que permite cores, assim não comprometendo a visualização do game, e evitando erros.
