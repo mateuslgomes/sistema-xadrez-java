@@ -2,6 +2,8 @@
 
 ### Peças: Rei(K), peão(P), torre(R), bispo(B), rainha(Q), cavalo(N).
 
+aviso: O jogo deve rodar na pasta bin, pelo Git Bash, porque é um terminal que permite cores, assim não comprometendo a visualização do game, e evitando erros.
+
 ![1](https://user-images.githubusercontent.com/97681752/166970517-2867725f-ec8b-4fcf-8752-9537ef364b95.jpg)
 
 ## Sistema de capturas de peças.
@@ -51,5 +53,3 @@ Observações:
 O jogo deve ter 2 jogadores.
 
 A jogabilidade do game é pelo terminal, usando uma letra e um número conforme a posição da peça(mesma lógica de batalha naval).
-
-O jogo deve rodar na pasta bin, pelo Git Bash, é um terminal que permite cores, assim não comprometendo a visualização do game, e evitando erros.
